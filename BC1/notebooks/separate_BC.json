@@ -1,0 +1,13 @@
+{
+  "model_version": "BC_cells",
+
+  "connector": "FOCON",
+  "cell": "BC1",
+  "module": "LBA66",
+  "tubes": [9, 8, 7, 6, 5, 4],
+  "run_numbers": [10706, 10708, 10710, 10712, 10714, 10716,
+    10718, 10720, 10722, 10724],
+
+   "single_anode_channel" : "2",
+   "file_name" : "BC1.CS10706F.LBA66.FOCON"
+}
