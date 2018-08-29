@@ -2,18 +2,17 @@
 # Created by https://www.gitignore.io/api/python,jupyternotebook
 #Ignore Folders
 
-/BC1/analysis
-/BC1/notebooks/.ipynb_checkpoints
+/BC1
 
 
 /processed_data
 
 
-/MultiAnodePMT/analysis
-/MultiAnodePMT/notebooks/.ipynb_checkpoints
+/MultiAnodePMT
 
-/TMP/analysis
-/TMP/notebooks/.ipynb_checkpoints
+
+/TMP
+
 
 
 ### JupyterNotebook ###
