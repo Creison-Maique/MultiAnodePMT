@@ -1,0 +1,2 @@
+Image Channel --> Vectorize --> Desvectorize --> FastICA --> Analysis Image
+                                                         --> Distances Matrix FastICA
